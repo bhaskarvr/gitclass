@@ -1,0 +1,6 @@
+india
+us 
+newzeland
+
+
+exit
