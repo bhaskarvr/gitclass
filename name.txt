@@ -1,6 +1,3 @@
 india
-us 
 newzeland
 
-
-exit
